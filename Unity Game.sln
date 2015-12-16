@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Game.CSharp.Plugins", "Unity Game.CSharp.Plugins.csproj", "{E51695C6-8D1B-C71C-25FD-09B1D6364AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Game.CSharp.Editor", "Unity Game.CSharp.Editor.csproj", "{FBC1F2AC-C57A-7517-4D2F-6AFFEF44E4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51695C6-8D1B-C71C-25FD-09B1D6364AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51695C6-8D1B-C71C-25FD-09B1D6364AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51695C6-8D1B-C71C-25FD-09B1D6364AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51695C6-8D1B-C71C-25FD-09B1D6364AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC1F2AC-C57A-7517-4D2F-6AFFEF44E4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC1F2AC-C57A-7517-4D2F-6AFFEF44E4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC1F2AC-C57A-7517-4D2F-6AFFEF44E4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC1F2AC-C57A-7517-4D2F-6AFFEF44E4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

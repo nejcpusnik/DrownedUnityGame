@@ -1,0 +1,68 @@
+	Exporter version: 3.0.6, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of mesh:  rdmobj02
+		processing begun of Standard material:  mi_rageBody
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_body_d.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_body_d.tga' are the same file
+		Emissive texture found
+			Image texture found, type:  emissiveTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_body_m.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_body_m.tga' are the same file
+		num positions      :  5159
+		num normals        :  5159
+		num uvs            :  10318
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  21018
+	processing begun of mesh:  rdmobj01
+		processing begun of Standard material:  mi_rage_harness
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_harness_d.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_harness_d.tga' are the same file
+		Specular texture found
+			Image texture found, type:  specularTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_harness_s.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_harness_s.tga' are the same file
+		num positions      :  2395
+		num normals        :  2395
+		num uvs            :  4790
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7812
+	processing begun of mesh:  rdmobj03
+		processing begun of Standard material:  mi_rage_fur
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_fur_dm.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_fur_dm.tga' are the same file
+		Specular texture found
+			Image texture found, type:  specularTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_fur_s.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_fur_s.tga' are the same file
+		Emissive texture found
+			Image texture found, type:  emissiveTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_fur_dm.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_fur_dm.tga' are the same file
+		num positions      :  881
+		num normals        :  881
+		num uvs            :  1762
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2616
+	processing begun of mesh:  rdmobj00
+		processing begun of Standard material:  m_rage_eyes
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_eyes_d.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_eyes_d.tga' are the same file
+		Emissive texture found
+			Image texture found, type:  emissiveTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_eyes_m.tga' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\antagonist\\t_rage_eyes_m.tga' are the same file
+		num positions      :  414
+		num normals        :  414
+		num uvs            :  828
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2190
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3158 secs
