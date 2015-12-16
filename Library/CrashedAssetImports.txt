@@ -1,1 +1,0 @@
-Assets/objects/Castle/castleFinal.blend
