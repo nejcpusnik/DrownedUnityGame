@@ -1,0 +1,2322 @@
+	Exporter version: 3.0.6, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Cube.043_Cube.055
+		processing begun of Standard material:  Material.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood2.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood2.jpg' are the same file
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.031_Plane.034
+		processing begun of Standard material:  Material.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood.jpg' are the same file
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.012
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.002_Cube_3.004
+		processing begun of Standard material:  WoodenDoor
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood.jpg' are the same file
+		num positions      :  4608
+		num normals        :  4608
+		num uvs            :  9216
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+	processing begun of mesh:  Cube.080_Cube.092
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube_Cube.000
+		processing begun of Standard material:  Material.005
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood.jpg' are the same file
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.011_Cube.010_Cube.014
+		processing begun of Standard material:  None.015
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.118_Cube.130
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.074_Cube.086
+		processing begun of Standard material:  Material.004
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood3.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood3.jpg' are the same file
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane
+		processing begun of Standard material:  Plane
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.073_Cube.085
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.075_Cube.087
+		registered as also a user of material:  Material.004
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.024_Plane.048
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.117_Cube.129
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.034_Plane.037
+		registered as also a user of material:  Material.003
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.009
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.085_Cube.097
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.116_Cube.128
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.048_Cube.060
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.003
+		processing begun of Standard material:  None_Floor.jpg
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.019_Plane.043
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.001_Cube.002
+		processing begun of Standard material:  None_Brick.jpg
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		processing begun of Standard material:  Wall
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		processing begun of multimaterial:  castleTest3.Multimaterial#0
+		num positions      :  86
+		num normals        :  86
+		num uvs            :  172
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.037_Cube.048
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.122_Cube.134
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.060_Cube.072
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.010
+		processing begun of Standard material:  None.013
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.128_Cube.140
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.022_Cube.026
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Mesh0_Mesh1
+		processing begun of Standard material:  _PosterBedAltShader
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2295
+		num normals        :  2295
+		num uvs            :  4590
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  10746
+	processing begun of mesh:  Cube.003_Cube.006
+		registered as also a user of material:  Wall
+		num positions      :  74
+		num normals        :  74
+		num uvs            :  148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+	processing begun of mesh:  Cube.002_Cube.031
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.001
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.087_Cube.099
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.023_Plane.047
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  TriggerCube_Cube.003
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.056_Cube.068
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.006
+		processing begun of Standard material:  None_diffuse.tga.006
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  656
+		num normals        :  656
+		num uvs            :  1312
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Plane.033_Plane.036
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.007
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube_Cube.001
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#1
+		num positions      :  86
+		num normals        :  86
+		num uvs            :  172
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  KeyRoom_KeyMainDoor_Torus_1.001
+		processing begun of Standard material:  Material.010
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  154
+		num normals        :  154
+		num uvs            :  308
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  Plane.025_Plane.049
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.007
+		processing begun of Standard material:  None_diffuse.tga.007
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  660
+		num normals        :  660
+		num uvs            :  1320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Cube.067_Cube.079
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.013
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.055_Cube.067
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.002
+		processing begun of Standard material:  None_diffuse.tga.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  658
+		num normals        :  658
+		num uvs            :  1316
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Cube_Cube.006
+		processing begun of Standard material:  Wall.006
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.115_Cube.127
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.018_Plane.019
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.011_Cube.034
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.035_Plane.038
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.076_Cube.088
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.079_Cube.091
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.023_Cube.027
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.095_Cube.107
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.001_Cube_3.003
+		registered as also a user of material:  WoodenDoor
+		num positions      :  4620
+		num normals        :  4620
+		num uvs            :  9240
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+	processing begun of mesh:  Plane.008
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.037_Plane.040
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.002
+		processing begun of Standard material:  None.005
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013_Cube.014
+		registered as also a user of material:  Wall
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002_Cube.003
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#2
+		num positions      :  86
+		num normals        :  86
+		num uvs            :  172
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Plane.003
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  DoorRandomRoom_Door.003_Cube_3.005
+		processing begun of Standard material:  Material.008
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\DoorRoom.png' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\DoorRoom.png' are the same file
+		num positions      :  4631
+		num normals        :  4631
+		num uvs            :  9262
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+	processing begun of mesh:  Cube.096_Cube.108
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014_Cube.015
+		registered as also a user of material:  Wall
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.032_Plane.035
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.015
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.000_Cube.007
+		processing begun of Standard material:  None_Brick.jpg.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		processing begun of Standard material:  None_Brick.jpg.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		processing begun of multimaterial:  castleTest3.Multimaterial#3
+		num positions      :  56
+		num normals        :  56
+		num uvs            :  112
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.015_Cube.016
+		registered as also a user of material:  Wall
+		num positions      :  27
+		num normals        :  27
+		num uvs            :  54
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube_Cube.002
+		processing begun of Standard material:  Wall.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.017
+		processing begun of Standard material:  Plane.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.062_Cube.074
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.002
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.124_Cube.136
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.072_Cube.084
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Mesh0
+		processing begun of Standard material:  __poster_bed_d_shader
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  840
+		num normals        :  840
+		num uvs            :  1680
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3912
+	processing begun of mesh:  Cube_Cube.007
+		processing begun of Standard material:  Material.012
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.004
+		processing begun of Standard material:  None_diffuse.tga.004
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  662
+		num normals        :  662
+		num uvs            :  1324
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Cube.021_Cube.025
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.005
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.088_Cube.100
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.008_Cube.011
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.059_Cube.071
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.134_Cube.146
+		registered as also a user of material:  Material.004
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.081_Cube.093
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.014
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.051_Cube.063
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.082_Cube.094
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.097_Cube.109
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.053_Cube.065
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.020_Plane.044
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.013_Cube.036
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  HiddenCube1.001_Cube.010_Cube.015
+		processing begun of Standard material:  None.016
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.107_Cube.119
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.039_Cube.051
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.145_Cube.157
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.132_Cube.144
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.123_Cube.135
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.108_Cube.120
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.019_Cube.023
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.026_Plane.050
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  HiddenCube1.003_Cube.010_Cube.017
+		processing begun of Standard material:  None.018
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.129_Cube.141
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.003_Cube.005
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.016
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009_Cube.012
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.036_Plane.039
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.038_Cube
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.046_Cube.058
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Gotham_Objects_Bedframe
+		processing begun of Standard material:  Gotham_Fences_3BarGate_MI
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		Ambient texture found
+			Image texture found, type:  ambientTexture, mapped using: "UVMap"
+		num positions      :  1117
+		num normals        :  1117
+		num uvs            :  2234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2160
+	processing begun of mesh:  Cube.092_Cube.104
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.015_Cube.002
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.016_Cube.010
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.086_Cube.098
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.146_Cube.158
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.020_Cube.024
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.050_Cube.062
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.024_Cube.028
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.044_Cube.056
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.143_Cube.155
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.010
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.004_Cube.005
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#4
+		num positions      :  55
+		num normals        :  55
+		num uvs            :  110
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.006
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.001
+		processing begun of Standard material:  None.004
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.005
+		processing begun of Standard material:  None_diffuse.tga.005
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  658
+		num normals        :  658
+		num uvs            :  1316
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Plane.038_Plane.041
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.103_Cube.115
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.112_Cube.124
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.144_Cube.156
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  default_1_1_1.001
+		processing begun of Standard material:  default_1_1.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2220
+		num normals        :  2220
+		num uvs            :  4440
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6030
+	processing begun of mesh:  Cube.138_Cube.150
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.000_Cube.010
+		processing begun of Standard material:  None.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.104_Cube.116
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  default_1_1_1
+		processing begun of Standard material:  default_1_1
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2220
+		num normals        :  2220
+		num uvs            :  4440
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6030
+	processing begun of mesh:  Plane.017_Plane.018
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  MainDoor_Door.007_Door
+		processing begun of Standard material:  MainDoor
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2267
+		num normals        :  2267
+		num uvs            :  4534
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6204
+	processing begun of mesh:  Cube.133_Cube.145
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.140_Cube.152
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.029_Plane.032
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.033_Cube.044
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  default_1_1_1.003
+		processing begun of Standard material:  default_1_1.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2220
+		num normals        :  2220
+		num uvs            :  4440
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6030
+	processing begun of mesh:  Cube.077_Cube.089
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.004
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.017_Cube.021
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.005_Cube.007
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.003_Cube.004
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#5
+		num positions      :  85
+		num normals        :  85
+		num uvs            :  170
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Cube.001_Cube.030
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.090_Cube.102
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.030_Cube.041
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.126_Cube.138
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.032_Cube.043
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.025_Cube.029
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  HiddenCube1.002_Cube.010_Cube.016
+		processing begun of Standard material:  None.017
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.071_Cube.083
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Gotham_Objects_Mattress
+		processing begun of Standard material:  Gotham_Objects_Mattress_INST
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		Ambient texture found
+			Image texture found, type:  ambientTexture, mapped using: "UVMap"
+		num positions      :  269
+		num normals        :  269
+		num uvs            :  538
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  708
+	processing begun of mesh:  Cube.010_Cube.007_Cube.010_Cube.019
+		processing begun of Standard material:  None.022
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.006
+		processing begun of Standard material:  None.009
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.004_Cube_3.006
+		registered as also a user of material:  WoodenDoor
+		num positions      :  4628
+		num normals        :  4628
+		num uvs            :  9256
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+	processing begun of mesh:  KeyBedroom_Torus_1.003
+		processing begun of Standard material:  Material.011
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  151
+		num normals        :  151
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  Cube.007_Cube.033
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube_Cube.004
+		processing begun of Standard material:  Wall.004
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006_Cube.032
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.130_Cube.142
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006_Cube.000
+		processing begun of Standard material:  None.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		processing begun of Standard material:  Wall.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		processing begun of multimaterial:  castleTest3.Multimaterial#6
+		num positions      :  58
+		num normals        :  58
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.084_Cube.096
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  KeyChild_Torus_1.001
+		processing begun of Standard material:  Material.006
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  151
+		num normals        :  151
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  Cube.011_Cube.012
+		processing begun of Standard material:  None.020
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#7
+		num positions      :  85
+		num normals        :  85
+		num uvs            :  170
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  108
+	processing begun of mesh:  Plane.002
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.127_Cube.139
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.028_Cube.039
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.065_Cube.077
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.121_Cube.133
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder.001
+		processing begun of Standard material:  None__1
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  257
+		num normals        :  257
+		num uvs            :  514
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Cube.141_Cube.153
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.014
+		processing begun of Standard material:  None.026
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.093_Cube.105
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cylinder
+		processing begun of Standard material:  None_Brick.jpg.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  265
+		num normals        :  265
+		num uvs            :  530
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  FsA_Cube_Cube.010
+		processing begun of Standard material:  None
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.109_Cube.121
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.064_Cube.076
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.061_Cube.073
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.135_Cube.147
+		registered as also a user of material:  Material.004
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.058_Cube.070
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.040_Cube.052
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.098_Cube.110
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.106_Cube.118
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.004
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube_Cube.005
+		processing begun of Standard material:  Wall.005
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.011
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Default
+		processing begun of Standard material:  Default
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  Knop
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of Standard material:  Drawer
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  castleTest3.Multimaterial#8
+		num positions      :  2205
+		num normals        :  2205
+		num uvs            :  4410
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3648
+		WARNING: # of 0 area faces found:  16
+	processing begun of mesh:  Cube.018_Cube.022
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  DoorChild_Door.002_Cube_3.000
+		processing begun of Standard material:  WoodenDoor.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\DoorChild.png' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\DoorChild.png' are the same file
+		num positions      :  4620
+		num normals        :  4620
+		num uvs            :  9240
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+	processing begun of mesh:  Cube.049_Cube.061
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.105_Cube.117
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.035_Cube.046
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.001
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  DoorBedroom_Door.006_Cube_3.008
+		processing begun of Standard material:  Material.007
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\DoorBedroom.png' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\DoorBedroom.png' are the same file
+		num positions      :  4625
+		num normals        :  4625
+		num uvs            :  9250
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+	processing begun of mesh:  Cube.120_Cube.132
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.091_Cube.103
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.110_Cube.122
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.018
+		processing begun of Standard material:  Plane.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of mesh:  Cube.031_Cube.042
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  HiddenBridge_Cube.010_Cube.012
+		processing begun of Standard material:  None.014
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.014_Cube.000
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.006
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.078_Cube.090
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.012_Cube.035
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.045_Cube.057
+		registered as also a user of material:  Material.002
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.042_Cube.054
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.028_Plane.052
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.052_Cube.064
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.000
+		processing begun of Standard material:  None.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.099_Cube.111
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.036_Cube.047
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.102_Cube.114
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.054_Cube.066
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.027_Plane.051
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009_Cube.010
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#9
+		num positions      :  56
+		num normals        :  56
+		num uvs            :  112
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.005
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.021_Plane.045
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  chest1_Cube
+		processing begun of Standard material:  Material.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood_planks_new_0025_01_s.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\wood_planks_new_0025_01_s.jpg' are the same file
+		num positions      :  723
+		num normals        :  723
+		num uvs            :  1446
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2100
+		WARNING: # of 0 area faces found:  12
+	processing begun of mesh:  Cube.012_Cube.013
+		registered as also a user of material:  Wall
+		num positions      :  27
+		num normals        :  27
+		num uvs            :  54
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.029_Cube.040
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.119_Cube.131
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube_Cube.003
+		processing begun of Standard material:  Wall.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.089_Cube.101
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.139_Cube.151
+		registered as also a user of material:  Material.004
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.057_Cube.069
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.114_Cube.126
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.137_Cube.149
+		registered as also a user of material:  Material.004
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.041_Cube.053
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.125_Cube.137
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.142_Cube.154
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.083_Cube.095
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.111_Cube.123
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.034_Cube.045
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.003
+		processing begun of Standard material:  None_diffuse.tga.003
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  658
+		num normals        :  658
+		num uvs            :  1316
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Cube.066_Cube.078
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.009
+		registered as also a user of material:  None_Brick.jpg
+		num positions      :  28
+		num normals        :  28
+		num uvs            :  56
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.026_Cube.037
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  default_1_1_1.002
+		processing begun of Standard material:  default_1_1.002
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2220
+		num normals        :  2220
+		num uvs            :  4440
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6030
+	processing begun of mesh:  Cube.027_Cube.038
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.131_Cube.143
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.010_Cube.008_Cube.010_Cube.020
+		processing begun of Standard material:  None.023
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+	Error encountered processing image file:  , Error:  'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' and 'C:\\Development\\XAMPP\\htdocs\\igraWebGL\\assets\\objects\\Castle\\Brick.jpg' are the same file
+		num positions      :  29
+		num normals        :  29
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  KeyMainDoor_Torus_1
+		processing begun of Standard material:  Material.009
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  152
+		num normals        :  152
+		num uvs            :  304
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+	processing begun of mesh:  Plane.030_Plane.033
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table
+		processing begun of Standard material:  None_diffuse.tga
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  660
+		num normals        :  660
+		num uvs            :  1320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Cube.136_Cube.148
+		registered as also a user of material:  Material.004
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  lock_Cube.002
+		processing begun of Standard material:  None.021
+		num positions      :  731
+		num normals        :  731
+		num uvs            :  1462
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  996
+		WARNING: # of 0 area faces found:  12
+	processing begun of mesh:  Cube.101_Cube.113
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.063_Cube.075
+		registered as also a user of material:  Material.004
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.113_Cube.125
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.047_Cube.059
+		registered as also a user of material:  Material.002
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.006_Cube.007
+		registered as also a user of material:  None_Brick.jpg
+		registered as also a user of material:  Wall
+		processing begun of multimaterial:  castleTest3.Multimaterial#10
+		num positions      :  58
+		num normals        :  58
+		num uvs            :  116
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  72
+	processing begun of mesh:  Cube.004_Cube.006
+		registered as also a user of material:  Material.005
+		num positions      :  32
+		num normals        :  32
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.022_Plane.046
+		registered as also a user of material:  Material.003
+		num positions      :  30
+		num normals        :  30
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.094_Cube.106
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Cube.100_Cube.112
+		registered as also a user of material:  Material.005
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  table.001
+		processing begun of Standard material:  None_diffuse.tga.001
+		Diffuse texture found
+			Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  660
+		num normals        :  660
+		num uvs            :  1320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1356
+	processing begun of mesh:  Plane.016_Plane.017
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Plane.013
+		registered as also a user of material:  Material.003
+		num positions      :  31
+		num normals        :  31
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Door.005_Cube_3.007
+		registered as also a user of material:  WoodenDoor
+		num positions      :  4633
+		num normals        :  4633
+		num uvs            :  9266
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12582
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.0918 secs

@@ -1,0 +1,1891 @@
+	Exporter version: 3.0.6, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Cylinde241
+		processing begun of Standard material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde240
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde239
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde238
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde237
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde236
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde235
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde234
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde233
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde232
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde231
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde230
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde229
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde228
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde227
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde226
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde225
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde224
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde223
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde222
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde221
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde220
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde219
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde218
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde217
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde216
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde215
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde214
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde213
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde212
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde211
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde210
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde209
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde208
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde207
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde206
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde205
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde204
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde203
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde202
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde201
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde200
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde199
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde198
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde197
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde196
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde195
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde194
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde193
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde192
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde191
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde190
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde189
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde188
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde187
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde186
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde185
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde184
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde183
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde182
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde181
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde180
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde179
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde178
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde177
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde176
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde175
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde174
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde173
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde172
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde171
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde170
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde169
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde168
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde167
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde166
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde165
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde164
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde163
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde162
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde161
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde160
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde159
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde158
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde157
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde156
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde155
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde154
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde153
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde152
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde151
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde150
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde149
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde148
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde147
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde146
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde145
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde144
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde143
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde142
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde141
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde140
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde139
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde138
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde137
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde136
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde135
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde134
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde133
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde132
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde131
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde130
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde129
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde128
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde127
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde126
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde125
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde124
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde123
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde122
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde121
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde120
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde119
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde118
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde117
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde116
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde115
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde114
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde113
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde112
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde111
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde110
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde109
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinde108
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde107
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinde106
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde105
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde104
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde103
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde102
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde101
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinde100
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder22
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder21
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder20
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder19
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder18
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder17
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinder16
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder15
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder14
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder13
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder12
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder11
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder10
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder99
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder98
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder97
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder96
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder95
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder94
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder93
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinder92
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinder91
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder90
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder89
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder88
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder87
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder86
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder85
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder84
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder83
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder82
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder81
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder80
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder79
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder78
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder77
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinder76
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinder75
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder74
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder73
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder72
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder71
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder70
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder69
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder68
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder67
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder66
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder65
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder64
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder63
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder62
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinder61
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinder60
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder59
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder58
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder57
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder56
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder55
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder54
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder53
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder52
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder51
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder50
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder49
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder48
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder47
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinder46
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinder45
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinder44
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder43
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder42
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder41
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder40
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder39
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder38
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder37
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder36
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder35
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder34
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder33
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder32
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder31
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Cylinder30
+		registered as also a user of material:  09 - Default
+		num positions      :  126
+		num normals        :  126
+		num uvs            :  252
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  588
+	processing begun of mesh:  Cylinder29
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder28
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder27
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder26
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder25
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder24
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder23
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder02
+		registered as also a user of material:  09 - Default
+		num positions      :  91
+		num normals        :  91
+		num uvs            :  182
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  300
+	processing begun of mesh:  Cylinder01
+		registered as also a user of material:  09 - Default
+		num positions      :  175
+		num normals        :  175
+		num uvs            :  350
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  888
+	processing begun of mesh:  Box03
+		processing begun of Standard material:  07 - Default
+		processing begun of Standard material:  08 - Default
+		registered as also a user of material:  09 - Default
+		processing begun of multimaterial:  Castle.Multimaterial#0
+		num positions      :  14025
+		num normals        :  14025
+		num uvs            :  28050
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  52224
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.1907 secs

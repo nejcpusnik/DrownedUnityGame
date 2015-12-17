@@ -123,11 +123,18 @@
       <Project>{E51695C6-8D1B-C71C-25FD-09B1D6364AF8}</Project>
       <Name>Unity Game.CSharp.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity Game.CSharp.csproj">
+      <Project>{7B91E256-7A45-0457-7B0A-B505E87E3AFB}</Project>
+      <Name>Unity Game.CSharp</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
+    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
+    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
